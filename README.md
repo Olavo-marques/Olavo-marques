@@ -6,11 +6,11 @@
 - 💬 Pergunte algo...
 - 😄 Pronouns: ele/dele.
 - 🌱 Estudando atualmente MySQL
-
+##
 <div align="center">
   <a href="https://github.com/Olavo-marques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olavo-marques&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olavo-marques&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180vh" src="https://github-readme-stats.vercel.app/api?username=Olavo-marques&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olavo-marques&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,3 +24,4 @@
   <img align="center" alt="olavo-Styled-Components" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png" />
 </div>
 
+##
