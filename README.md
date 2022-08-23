@@ -22,6 +22,8 @@
   <img align="center" alt="olavo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="olavo-MySQL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" /> 
   <img align="center" alt="olavo-Styled-Components" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_styled_icon_130142.png" />
+  
+  ![Snake animation](https://github.com/Olavo-marques/Olavo-marques/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ##
