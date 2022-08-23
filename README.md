@@ -7,10 +7,10 @@
 - 😄 Pronouns: ele/dele.
 - 🌱 Estudando atualmente MySQL
 
-<div display="flex" flex-direction="row">
+<div align="center" border="solid 1px blue">
   <a href="https://github.com/Olavo-marques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olavo-marques&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olavo-marques&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olavo-marques&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
