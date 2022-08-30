@@ -4,7 +4,7 @@
 
 - 🔭 Em busca de um lugar para contribuir MUITO .
 - 💬 Pergunte algo...
-- 😄 Pronouns: ele/dele.
+- 😄 Pronomes: ele/dele.
 - 🌱 Estudando atualmente MySQL
 ##
 <div align="center">
