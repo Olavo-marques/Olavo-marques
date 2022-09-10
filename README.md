@@ -5,7 +5,7 @@
 - 🔭 Em busca de um lugar para contribuir MUITO .
 - 💬 Pergunte algo...
 - 😄 Pronomes: ele/dele.
-- 🌱 Estudando atualmente MySQL
+- 🌱 Estudando atualmente CLasse no back end.
 ##
 <div align="center">
   <a href="https://github.com/Olavo-marques">
