@@ -1,11 +1,12 @@
 
-
+<div background="red">
 ## Olá, obrigado por visitar meu perfil. 👋
 
 - 🔭 Em busca de um lugar para contribuir MUITO .
 - 💬 Pergunte algo...
 - 😄 Pronomes: ele/dele.
 - 🌱 Estudando atualmente classe no back end.
+</div>
 ##
 <div align="center">
   <a href="https://github.com/Olavo-marques">
