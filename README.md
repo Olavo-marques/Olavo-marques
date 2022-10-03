@@ -4,7 +4,7 @@
 - 🔭 Em busca de um lugar para contribuir MUITO .
 - 💬 Pergunte algo...
 - 😄 Pronomes: ele/dele.
-- 🌱 Estudando atualmente classe no back end.
+- 🌱 Estudando atualmente Testes unitários no back end.
 ##
 <div align="center">
   <a href="https://github.com/Olavo-marques">
